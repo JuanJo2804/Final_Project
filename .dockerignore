@@ -1,0 +1,12 @@
+.env
+.env.*
+.git
+**/.git
+*.ipynb
+**/*.ipynb
+notebooks/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
