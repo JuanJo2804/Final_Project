@@ -328,3 +328,12 @@ Reglas: nunca muestres el token; la terminal y el navegador deben leerse bien; s
 ## Al terminar cada sesión
 
 Detén la API con **Ctrl + C**. El Codespace se detiene solo tras 30 minutos sin actividad. Tu cuota gratuita es de **60 horas al mes** con la máquina de 2 núcleos. Revisa tu consumo en **github.com/settings/billing → Usage**, filtrando por Codespaces.
+
+
+
+## Enlace Colab
+https://colab.research.google.com/drive/19E5sOSWskMbNFDPmvjQfNuwj7EgElB0k?usp=sharing
+
+## Enlace video
+
+https://youtu.be/actqkIcU_ug
